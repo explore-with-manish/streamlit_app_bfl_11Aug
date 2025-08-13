@@ -61,7 +61,7 @@ def make_data(seed: int = 42, days: int = 120):
 
 df, geo = make_data()
 
-st.title("📈 Charts & 🗺️ Maps with Streamlit")
+st.title("📈 Charts & 🗺️ Maps with Streamlit for Bajaj")
 st.caption(
     "A guided tour of quick charts, Altair/Plotly/Matplotlib, and mapping with st.map & pydeck."
 )
