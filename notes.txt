@@ -1,0 +1,13 @@
+Create and clone a git Repo
+
+1. Create ProjectFolder
+2. cd ProjectFolder
+3. py -m venv venv
+4. venv\Scripts\activate
+5. py -m pip install streamlit matplotlib altair plotly
+6. py -m pip list
+7. py -m pip freeze > requirements.txt
+
+git add.
+git commit -m "Commit Message"
+git push
